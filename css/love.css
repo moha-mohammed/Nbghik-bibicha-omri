@@ -143,7 +143,7 @@ body {
     /*display: inline-block;*/
     border-top: 3px solid black;
     transform-origin: left center;
-    -webkit-animation: border 312 linear;
+    -webkit-animation: border 12s linear;
     -o-animation: border 12s linear;
     animation: border 12s linear;
     animation-fill-mode : both;
